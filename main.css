@@ -681,7 +681,7 @@ padding: 8px 15px 8px 45px;
 
     .start-btn{
         top: 50%;
-        left: 54%;
+        left: 50%;
     }
     .start-btn button {
         font-size: 18px;
@@ -772,7 +772,7 @@ padding: 8px 15px 8px 45px;
     .info-box, .quiz-box, .result-box{
         width: 380px;
         top: 50%;
-        left: 50%;
+        left: 54%;
         transform: translate(-50%, -50%);
         
     }
